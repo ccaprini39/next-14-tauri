@@ -7,7 +7,7 @@
     "distDir": "../out"
   },
   "package": {
-    "productName": "name-gen-tauri",
+    "productName": "next-14-tauri",
     "version": "0.1.0"
   },
   "tauri": {
@@ -58,7 +58,7 @@
         "fullscreen": false,
         "height": 600,
         "resizable": true,
-        "title": "name-gen-tauri",
+        "title": "next-14-tauri",
         "width": 800
       }
     ]
