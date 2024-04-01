@@ -17,3 +17,5 @@ It provides a very basic window with a useState and useEffect hook that uses a v
 It's my first time using Tauri, so I'm not sure if this is the best way to do things, but I don't care.  This is meant to be nothing more than basic boilerplate to get started.  I'll do more with it eventually.  Maybe.
 
 I don't have any of the package things in the git ignore.  Best way to use this thing is to just download it as a zip and then do whatever you want with it.  I don't care.  I don't know the complex git commands enough to tell you how to create a new git repo from this one.  I'm sure you can figure it out, I believe in you.  Ask an llm if you need help.
+
+It uses TS.  I like TS.  Maybe one day I'll make another version that is pure JS.  But you should learn TS if you don't know it.  It's good for you.
